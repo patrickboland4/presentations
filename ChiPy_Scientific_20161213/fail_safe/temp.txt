@@ -1,0 +1,115 @@
+Survived|Pclass|Name|Sex|Age|SibSp|Parch|Ticket|Fare|
+0.0|3.0|Braund, Mr. Owen Harris|male|22.0|1.0|0.0|A/5 21171|7.25|
+1.0|1.0|Cumings, Mrs. John Bradley (Florence Briggs Thayer)|female|38.0|1.0|0.0|PC 17599|71.2833|
+1.0|3.0|Heikkinen, Miss. Laina|female|26.0|0.0|0.0|STON/O2. 3101282|7.925|
+1.0|1.0|Futrelle, Mrs. Jacques Heath (Lily May Peel)|female|35.0|1.0|0.0|113803.0|53.1|
+0.0|3.0|Allen, Mr. William Henry|male|35.0|0.0|0.0|373450.0|8.05|
+0.0|3.0|Moran, Mr. James|male||0.0|0.0|330877.0|8.4583|
+0.0|1.0|McCarthy, Mr. Timothy J|male|54.0|0.0|0.0|17463.0|51.8625|
+0.0|3.0|Palsson, Master. Gosta Leonard|male|2.0|3.0|1.0|349909.0|21.075|
+1.0|3.0|Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)|female|27.0|0.0|2.0|347742.0|11.1333|
+1.0|2.0|Nasser, Mrs. Nicholas (Adele Achem)|female|14.0|1.0|0.0|237736.0|30.0708|
+1.0|3.0|Sandstrom, Miss. Marguerite Rut|female|4.0|1.0|1.0|PP 9549|16.7|
+1.0|1.0|Bonnell, Miss. Elizabeth|female|58.0|0.0|0.0|113783.0|26.55|
+0.0|3.0|Saundercock, Mr. William Henry|male|20.0|0.0|0.0|A/5. 2151|8.05|
+0.0|3.0|Andersson, Mr. Anders Johan|male|39.0|1.0|5.0|347082.0|31.275|
+0.0|3.0|Vestrom, Miss. Hulda Amanda Adolfina|female|14.0|0.0|0.0|350406.0|7.8542|
+1.0|2.0|Hewlett, Mrs. (Mary D Kingcome) |female|55.0|0.0|0.0|248706.0|16.0|
+0.0|3.0|Rice, Master. Eugene|male|2.0|4.0|1.0|382652.0|29.125|
+1.0|2.0|Williams, Mr. Charles Eugene|male||0.0|0.0|244373.0|13.0|
+0.0|3.0|Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)|female|31.0|1.0|0.0|345763.0|18.0|
+1.0|3.0|Masselmani, Mrs. Fatima|female||0.0|0.0|2649.0|7.225|
+0.0|2.0|Fynney, Mr. Joseph J|male|35.0|0.0|0.0|239865.0|26.0|
+1.0|2.0|Beesley, Mr. Lawrence|male|34.0|0.0|0.0|248698.0|13.0|
+1.0|3.0|McGowan, Miss. Anna "Annie"|female|15.0|0.0|0.0|330923.0|8.0292|
+1.0|1.0|Sloper, Mr. William Thompson|male|28.0|0.0|0.0|113788.0|35.5|
+0.0|3.0|Palsson, Miss. Torborg Danira|female|8.0|3.0|1.0|349909.0|21.075|
+1.0|3.0|Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)|female|38.0|1.0|5.0|347077.0|31.3875|
+0.0|3.0|Emir, Mr. Farred Chehab|male||0.0|0.0|2631.0|7.225|
+0.0|1.0|Fortune, Mr. Charles Alexander|male|19.0|3.0|2.0|19950.0|263.0|
+1.0|3.0|O'Dwyer, Miss. Ellen "Nellie"|female||0.0|0.0|330959.0|7.8792|
+0.0|3.0|Todoroff, Mr. Lalio|male||0.0|0.0|349216.0|7.8958|
+0.0|1.0|Uruchurtu, Don. Manuel E|male|40.0|0.0|0.0|PC 17601|27.7208|
+1.0|1.0|Spencer, Mrs. William Augustus (Marie Eugenie)|female||1.0|0.0|PC 17569|146.5208|
+1.0|3.0|Glynn, Miss. Mary Agatha|female||0.0|0.0|335677.0|7.75|
+0.0|2.0|Wheadon, Mr. Edward H|male|66.0|0.0|0.0|C.A. 24579|10.5|
+0.0|1.0|Meyer, Mr. Edgar Joseph|male|28.0|1.0|0.0|PC 17604|82.1708|
+0.0|1.0|Holverson, Mr. Alexander Oskar|male|42.0|1.0|0.0|113789.0|52.0|
+1.0|3.0|Mamee, Mr. Hanna|male||0.0|0.0|2677.0|7.2292|
+0.0|3.0|Cann, Mr. Ernest Charles|male|21.0|0.0|0.0|A./5. 2152|8.05|
+0.0|3.0|Vander Planke, Miss. Augusta Maria|female|18.0|2.0|0.0|345764.0|18.0|
+1.0|3.0|Nicola-Yarred, Miss. Jamila|female|14.0|1.0|0.0|2651.0|11.2417|
+0.0|3.0|Ahlin, Mrs. Johan (Johanna Persdotter Larsson)|female|40.0|1.0|0.0|7546.0|9.475|
+0.0|2.0|Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)|female|27.0|1.0|0.0|11668.0|21.0|
+0.0|3.0|Kraeff, Mr. Theodor|male||0.0|0.0|349253.0|7.8958|
+1.0|2.0|Laroche, Miss. Simonne Marie Anne Andree|female|3.0|1.0|2.0|SC/Paris 2123|41.5792|
+1.0|3.0|Devaney, Miss. Margaret Delia|female|19.0|0.0|0.0|330958.0|7.8792|
+0.0|3.0|Rogers, Mr. William John|male||0.0|0.0|S.C./A.4. 23567|8.05|
+0.0|3.0|Lennon, Mr. Denis|male||1.0|0.0|370371.0|15.5|
+1.0|3.0|O'Driscoll, Miss. Bridget|female||0.0|0.0|14311.0|7.75|
+0.0|3.0|Samaan, Mr. Youssef|male||2.0|0.0|2662.0|21.6792|
+0.0|3.0|Arnold-Franchi, Mrs. Josef (Josefine Franchi)|female|18.0|1.0|0.0|349237.0|17.8|
+0.0|3.0|Panula, Master. Juha Niilo|male|7.0|4.0|1.0|3101295.0|39.6875|
+0.0|3.0|Nosworthy, Mr. Richard Cater|male|21.0|0.0|0.0|A/4. 39886|7.8|
+1.0|1.0|Harper, Mrs. Henry Sleeper (Myna Haxtun)|female|49.0|1.0|0.0|PC 17572|76.7292|
+1.0|2.0|Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)|female|29.0|1.0|0.0|2926.0|26.0|
+0.0|1.0|Ostby, Mr. Engelhart Cornelius|male|65.0|0.0|1.0|113509.0|61.9792|
+1.0|1.0|Woolner, Mr. Hugh|male||0.0|0.0|19947.0|35.5|
+1.0|2.0|Rugg, Miss. Emily|female|21.0|0.0|0.0|C.A. 31026|10.5|
+0.0|3.0|Novel, Mr. Mansouer|male|28.5|0.0|0.0|2697.0|7.2292|
+1.0|2.0|West, Miss. Constance Mirium|female|5.0|1.0|2.0|C.A. 34651|27.75|
+0.0|3.0|Goodwin, Master. William Frederick|male|11.0|5.0|2.0|CA 2144|46.9|
+0.0|3.0|Sirayanian, Mr. Orsen|male|22.0|0.0|0.0|2669.0|7.2292|
+1.0|1.0|Icard, Miss. Amelie|female|38.0|0.0|0.0|113572.0|80.0|
+0.0|1.0|Harris, Mr. Henry Birkhardt|male|45.0|1.0|0.0|36973.0|83.475|
+0.0|3.0|Skoog, Master. Harald|male|4.0|3.0|2.0|347088.0|27.9|
+0.0|1.0|Stewart, Mr. Albert A|male||0.0|0.0|PC 17605|27.7208|
+1.0|3.0|Moubarek, Master. Gerios|male||1.0|1.0|2661.0|15.2458|
+1.0|2.0|Nye, Mrs. (Elizabeth Ramell)|female|29.0|0.0|0.0|C.A. 29395|10.5|
+0.0|3.0|Crease, Mr. Ernest James|male|19.0|0.0|0.0|S.P. 3464|8.1583|
+1.0|3.0|Andersson, Miss. Erna Alexandra|female|17.0|4.0|2.0|3101281.0|7.925|
+0.0|3.0|Kink, Mr. Vincenz|male|26.0|2.0|0.0|315151.0|8.6625|
+0.0|2.0|Jenkin, Mr. Stephen Curnow|male|32.0|0.0|0.0|C.A. 33111|10.5|
+0.0|3.0|Goodwin, Miss. Lillian Amy|female|16.0|5.0|2.0|CA 2144|46.9|
+0.0|2.0|Hood, Mr. Ambrose Jr|male|21.0|0.0|0.0|S.O.C. 14879|73.5|
+0.0|3.0|Chronopoulos, Mr. Apostolos|male|26.0|1.0|0.0|2680.0|14.4542|
+1.0|3.0|Bing, Mr. Lee|male|32.0|0.0|0.0|1601.0|56.4958|
+0.0|3.0|Moen, Mr. Sigurd Hansen|male|25.0|0.0|0.0|348123.0|7.65|
+0.0|3.0|Staneff, Mr. Ivan|male||0.0|0.0|349208.0|7.8958|
+0.0|3.0|Moutal, Mr. Rahamin Haim|male||0.0|0.0|374746.0|8.05|
+1.0|2.0|Caldwell, Master. Alden Gates|male|0.83|0.0|2.0|248738.0|29.0|
+1.0|3.0|Dowdell, Miss. Elizabeth|female|30.0|0.0|0.0|364516.0|12.475|
+0.0|3.0|Waelens, Mr. Achille|male|22.0|0.0|0.0|345767.0|9.0|
+1.0|3.0|Sheerlinck, Mr. Jan Baptist|male|29.0|0.0|0.0|345779.0|9.5|
+1.0|3.0|McDermott, Miss. Brigdet Delia|female||0.0|0.0|330932.0|7.7875|
+0.0|1.0|Carrau, Mr. Francisco M|male|28.0|0.0|0.0|113059.0|47.1|
+1.0|2.0|Ilett, Miss. Bertha|female|17.0|0.0|0.0|SO/C 14885|10.5|
+1.0|3.0|Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)|female|33.0|3.0|0.0|3101278.0|15.85|
+0.0|3.0|Ford, Mr. William Neal|male|16.0|1.0|3.0|W./C. 6608|34.375|
+0.0|3.0|Slocovski, Mr. Selman Francis|male||0.0|0.0|SOTON/OQ 392086|8.05|
+1.0|1.0|Fortune, Miss. Mabel Helen|female|23.0|3.0|2.0|19950.0|263.0|
+0.0|3.0|Celotti, Mr. Francesco|male|24.0|0.0|0.0|343275.0|8.05|
+0.0|3.0|Christmann, Mr. Emil|male|29.0|0.0|0.0|343276.0|8.05|
+0.0|3.0|Andreasson, Mr. Paul Edvin|male|20.0|0.0|0.0|347466.0|7.8542|
+0.0|1.0|Chaffee, Mr. Herbert Fuller|male|46.0|1.0|0.0|W.E.P. 5734|61.175|
+0.0|3.0|Dean, Mr. Bertram Frank|male|26.0|1.0|2.0|C.A. 2315|20.575|
+0.0|3.0|Coxon, Mr. Daniel|male|59.0|0.0|0.0|364500.0|7.25|
+0.0|3.0|Shorney, Mr. Charles Joseph|male||0.0|0.0|374910.0|8.05|
+0.0|1.0|Goldschmidt, Mr. George B|male|71.0|0.0|0.0|PC 17754|34.6542|
+1.0|1.0|Greenfield, Mr. William Bertram|male|23.0|0.0|1.0|PC 17759|63.3583|
+1.0|2.0|Doling, Mrs. John T (Ada Julia Bone)|female|34.0|0.0|1.0|231919.0|23.0|
+Survived|Pclass|Name|Sex|Age|SibSp|Parch|Ticket|Fare|
+0.0|3.0|Braund, Mr. Owen Harris|male|22.0|1.0|0.0|A/5 21171|7.25|
+1.0|1.0|Cumings, Mrs. John Bradley (Florence Briggs Thayer)|female|38.0|1.0|0.0|PC 17599|71.2833|
+1.0|3.0|Heikkinen, Miss. Laina|female|26.0|0.0|0.0|STON/O2. 3101282|7.925|
+1.0|1.0|Futrelle, Mrs. Jacques Heath (Lily May Peel)|female|35.0|1.0|0.0|113803.0|53.1|
+0.0|3.0|Allen, Mr. William Henry|male|35.0|0.0|0.0|373450.0|8.05|
+0.0|3.0|Moran, Mr. James|male||0.0|0.0|330877.0|8.4583|
+0.0|1.0|McCarthy, Mr. Timothy J|male|54.0|0.0|0.0|17463.0|51.8625|
+0.0|3.0|Palsson, Master. Gosta Leonard|male|2.0|3.0|1.0|349909.0|21.075|
+1.0|3.0|Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)|female|27.0|0.0|2.0|347742.0|11.1333|
+1.0|2.0|Nasser, Mrs. Nicholas (Adele Achem)|female|14.0|1.0|0.0|237736.0|30.0708|
+1.0|3.0|Sandstrom, Miss. Marguerite Rut|female|4.0|1.0|1.0|PP 9549|16.7|
+1.0|1.0|Bonnell, Miss. Elizabeth|female|58.0|0.0|0.0|113783.0|26.55|
+0.0|3.0|Saundercock, Mr. William Henry|male|20.0|0.0|0.0|A/5. 2151|8.05|
+0.0|3.0|Andersson, Mr. Anders Johan|male|39.0|1.0|5.0|347082.0|31.275|
